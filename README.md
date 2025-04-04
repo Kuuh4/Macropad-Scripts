@@ -10,6 +10,9 @@ Without the script, my macros are set to:
 <details>
   <summary>Why these inputs?</summary>
 <br>
+
+</details>
+
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
@@ -25,7 +28,6 @@ Without the script, my macros are set to:
 > [!CAUTION]
 > Negative potential consequences of an action.
 
-</details>
 
 ![](Macropad_Art.png)
 
